@@ -10,22 +10,9 @@
 		0513E4D52CFD8AA40099DF27 /* Team01_SCM.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Team01_SCM.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
-/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		0513E4E72CFD8AA50099DF27 /* Exceptions for "Team01_SCM" folder in "Team01_SCM" target */ = {
-			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
-			membershipExceptions = (
-				Info.plist,
-			);
-			target = 0513E4D42CFD8AA40099DF27 /* Team01_SCM */;
-		};
-/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
-
 /* Begin PBXFileSystemSynchronizedRootGroup section */
 		0513E4D72CFD8AA40099DF27 /* Team01_SCM */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			exceptions = (
-				0513E4E72CFD8AA50099DF27 /* Exceptions for "Team01_SCM" folder in "Team01_SCM" target */,
-			);
 			path = Team01_SCM;
 			sourceTree = "<group>";
 		};
